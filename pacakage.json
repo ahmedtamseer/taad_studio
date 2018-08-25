@@ -1,0 +1,15 @@
+{
+  "name": "taadstudio",
+  "version": "0.0.1",
+  "description": "Taad Studio",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "private": true
+}
